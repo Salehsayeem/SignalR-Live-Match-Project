@@ -1,0 +1,3 @@
+
+  Scaffold-DbContext -Connection "Server=DESKTOP-TDVIS1J; Database=SignalRLiveMatch; Trusted_Connection=True; MultipleActiveResultSets=true;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Models" -ContextDir "Data" -Context "SignalRLiveMatchDbContext" -NoOnConfiguring
+
